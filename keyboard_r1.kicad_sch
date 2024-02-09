@@ -515,8 +515,17 @@
     (path "/20a036ad-be67-4434-99dc-963059004e66"
       (reference "J1") (unit 1) (value "Conn_02x12_Top_Bottom") (footprint "marbastlib-various:ProMicro")
     )
+    (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/2247ebc0-d72a-4f76-b81d-f0765c645894"
+      (reference "S1") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_6u")
+    )
+    (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/5ec8c203-c0f7-4293-a0fb-2d2c21f0cb19"
+      (reference "S2") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_2.25u")
+    )
+    (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/7e4d8b21-93d1-4539-8f46-b16a60416b5a"
+      (reference "S3") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_2.25u")
+    )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/3cecad2c-24d4-48e9-a546-69d2074afb6c"
-      (reference "SW1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/a46df739-6a72-4fc2-bd2b-66a19c45ae8d"
       (reference "SW2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -597,10 +606,10 @@
       (reference "SW27") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/5dd6e55c-5d50-4a2b-9536-5cae6662e119"
-      (reference "SW28") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW28") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/de673777-501f-4802-8494-37a2980def05"
-      (reference "SW29") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW29") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/70b4dbdd-c31c-4799-9e5e-f12b5ccbdb5c"
       (reference "SW30") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -642,7 +651,7 @@
       (reference "SW42") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/21453313-6d8a-44d3-a53f-382284b200c6"
-      (reference "SW43") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW43") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.75u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/c643f041-ec54-45c1-bf5e-b4af4b83ae77"
       (reference "SW44") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -678,7 +687,7 @@
       (reference "SW54") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/75555004-2675-46ee-bb51-902bcf513906"
-      (reference "SW55") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW55") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.75u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/a1b7c64e-2d61-4a74-9a13-9ab0864a7496"
       (reference "SW56") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -732,13 +741,13 @@
       (reference "SW72") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/af593124-1c76-437f-a1ec-8297bd485a7b"
-      (reference "SW73") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW73") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/0facbe7d-975f-400d-9202-952eabf95f78"
       (reference "SW74") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/b076cd90-476d-4137-920f-ab3583ca20d7"
-      (reference "SW75") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW75") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/7942e31c-5f27-44a5-b5ea-0c8553a73ad2/bd29e13a-bf79-48c0-b896-6faa5c31d84e"
       (reference "SW76") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
